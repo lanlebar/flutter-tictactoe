@@ -1,3 +1,3 @@
-# Tic Tac Toe
+# Tic-tac-toe
 
-Basic Tic Tac Toe game made in Flutter
+Basic Tic-tac-toe game made in Flutter
